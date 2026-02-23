@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋しくなったら手を叩こう",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-23T14:12:04.224757Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋しくなったら手を叩こう (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_恋しくなったら手を叩こう_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
